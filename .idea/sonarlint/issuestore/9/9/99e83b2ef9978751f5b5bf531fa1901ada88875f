@@ -1,0 +1,25 @@
+
+a
+java:S1192"KDefine a constant instead of duplicating this literal "Electrical" 3 times.(ŞÀËˆ
+§
+java:S1192"‘Define a constant instead of duplicating this literal "------------------------xxxxxxxxxxxxxxxxxxxxxxxx--------------------------------" 7 times.(ÅÂ5
+f	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¹Õº
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îÿ´üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(÷óô§şÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÂ5
+N	java:S106""9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(ÅÂ5
+S
+java:S1612("=Replace this lambda with method reference 'Number::intValue'.(Î¹Õº
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(ÅÂ5
+S	java:S106."9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ
+M	java:S1060"9Replace this use of System.out or System.err by a logger.(ÅÂ5
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+M	java:S1064"9Replace this use of System.out or System.err by a logger.(ÅÂ5
+X
+java:S16126"=Replace this lambda with method reference 'Student::getName'.(óş˜±ÿÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(óş˜±ÿÿÿÿÿ
+M	java:S1068"9Replace this use of System.out or System.err by a logger.(ÅÂ5
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(†ñû»ùÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(Í¿®§
+M	java:S106E"9Replace this use of System.out or System.err by a logger.(ÅÂ5
